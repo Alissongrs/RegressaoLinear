@@ -1,3 +1,1 @@
-# RegressaoLinear
-Análise preditiva
-asdasda
+
