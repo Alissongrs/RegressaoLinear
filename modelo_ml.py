@@ -17,4 +17,4 @@ df = df.drop(['cod_pedido', 'data'], axis=1)
 
 #print(df['valor_total_bruto'] > 0).head()
 
-print(df['valor_total_bruto'])
+print(df['valor_total_bruto'])adad
